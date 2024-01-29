@@ -25,3 +25,6 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+# Documentation License
+
+Articles are licensed under the terms of [CC BY-SA 4.0 or any later](by-sa.markdown)
