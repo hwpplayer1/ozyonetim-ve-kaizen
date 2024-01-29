@@ -28,3 +28,15 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 # Documentation License
 
 Articles are licensed under the terms of [CC BY-SA 4.0 or any later](by-sa.markdown)
+
+# Depolar
+
+Kitap çalışmamız aşağıdaki depolarda tutulmaktadır : 
+
+* https://codeberg.org/hwpplayer1/ozyonetim-ve-kaizen
+* https://git.disroot.org/hwpplayer1/ozyonetim-ve-kaizen
+* https://git.vern.cc/hwpplayer1/ozyonetim-ve-kaizen
+* https://git.sr.ht/~mertgor/ozyonetim-ve-kaizen
+* https://gitlab.com/hwpplayer1/ozyonetim-ve-kaizen
+* https://github.com/hwpplayer1/ozyonetim-ve-kaizen
+
