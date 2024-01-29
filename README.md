@@ -1,7 +1,5 @@
 # Özyönetim ve Kaizen
 
-<img src="img/346588.png" width="200" height="127">
-
 * Özyönetim ve Kaizen yaklaşımlarının karşılaştırmalı analizi.
 * Bir yazılım topluluğu nasıl kurulur ve işletilir sorusuna aranan cevap
 * Bir yazılım topluluğu "patronsuz" nasıl işletilir ?
