@@ -1,6 +1,7 @@
-# ozyonetim-ve-kaizen
+# Özyönetim ve Kaizen
 
-Özyönetim ve Kaizen yaklaşımlarının karşılaştırmalı analizi
+* Özyönetim ve Kaizen yaklaşımlarının karşılaştırmalı analizi.
+* Bir yazılım topluluğu nasıl kurulur ve işletilir sorusuna aranan cevap
 
 # License
 
